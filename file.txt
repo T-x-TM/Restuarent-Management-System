@@ -1,1 +1,3 @@
 this is first time git and github
+this is amazing file
+do you like it
